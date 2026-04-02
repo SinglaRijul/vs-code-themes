@@ -1,7 +1,7 @@
 {
-  "name": "earthy-themes",
-  "displayName": "Earthy Themes",
-  "description": "Seven handcrafted dark VS Code themes — earthy, volcanic, oceanic, and beyond.",
+  "name": "atmospheres",
+  "displayName": "Atmospheres",
+  "description": "23 dark VS Code themes — earthy, game-inspired, and everything in between.",
   "version": "1.0.0",
   "publisher": "salad-crunch",
   "author": {
