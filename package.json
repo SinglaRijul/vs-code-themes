@@ -1,0 +1,163 @@
+{
+  "name": "earthy-themes",
+  "displayName": "Earthy Themes",
+  "description": "Seven handcrafted dark VS Code themes — earthy, volcanic, oceanic, and beyond.",
+  "version": "1.0.0",
+  "publisher": "salad-crunch",
+  "author": {
+    "name": "SinglaRijul"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SinglaRijul/vscode-earthy-themes"
+  },
+  "bugs": {
+    "url": "https://github.com/SinglaRijul/vscode-earthy-themes/issues"
+  },
+  "homepage": "https://github.com/SinglaRijul/vscode-earthy-themes#readme",
+  "keywords": [
+    "theme",
+    "color theme",
+    "earthy",
+    "dark theme",
+    "nature",
+    "terra",
+    "moss",
+    "volcanic",
+    "bioluminescence",
+    "amethyst",
+    "copper",
+    "midnight"
+  ],
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Terra",
+        "uiTheme": "vs-dark",
+        "path": "./themes/terra-color-theme.json"
+      },
+      {
+        "label": "Moss & Stone",
+        "uiTheme": "vs-dark",
+        "path": "./themes/moss-stone-color-theme.json"
+      },
+      {
+        "label": "Volcanic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/volcanic-color-theme.json"
+      },
+      {
+        "label": "Bioluminescence",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bioluminescence-color-theme.json"
+      },
+      {
+        "label": "Midnight Library",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight-library-color-theme.json"
+      },
+      {
+        "label": "Copper & Verdigris",
+        "uiTheme": "vs-dark",
+        "path": "./themes/copper-verdigris-color-theme.json"
+      },
+      {
+        "label": "Smoked Amethyst",
+        "uiTheme": "vs-dark",
+        "path": "./themes/smoked-amethyst-color-theme.json"
+      },
+      {
+        "label": "Detroit — Connor",
+        "uiTheme": "vs-dark",
+        "path": "./themes/detroit-connor-color-theme.json"
+      },
+      {
+        "label": "Detroit — Kara",
+        "uiTheme": "vs-dark",
+        "path": "./themes/detroit-kara-color-theme.json"
+      },
+      {
+        "label": "Detroit — Markus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/detroit-markus-color-theme.json"
+      },
+      {
+        "label": "The Last of Us",
+        "uiTheme": "vs-dark",
+        "path": "./themes/last-of-us-color-theme.json"
+      },
+      {
+        "label": "Adventure Time",
+        "uiTheme": "vs-dark",
+        "path": "./themes/adventure-time-color-theme.json"
+      },
+      {
+        "label": "Rick and Morty",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rick-and-morty-color-theme.json"
+      },
+      {
+        "label": "Stardew Valley",
+        "uiTheme": "vs-dark",
+        "path": "./themes/stardew-valley-color-theme.json"
+      },
+      {
+        "label": "Rose Quartz",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rose-quartz-color-theme.json"
+      },
+      {
+        "label": "Crimson Linen",
+        "uiTheme": "vs-dark",
+        "path": "./themes/crimson-linen-color-theme.json"
+      },
+      {
+        "label": "Deep Jade",
+        "uiTheme": "vs-dark",
+        "path": "./themes/deep-jade-color-theme.json"
+      },
+      {
+        "label": "1-Bit",
+        "uiTheme": "vs-dark",
+        "path": "./themes/one-bit-color-theme.json"
+      },
+      {
+        "label": "Coffee",
+        "uiTheme": "vs-dark",
+        "path": "./themes/coffee-color-theme.json"
+      },
+      {
+        "label": "GTA",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gta-color-theme.json"
+      },
+      {
+        "label": "Half Life",
+        "uiTheme": "vs-dark",
+        "path": "./themes/half-life-color-theme.json"
+      },
+      {
+        "label": "Cherry Cola",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cherry-cola-color-theme.json"
+      },
+      {
+        "label": "God of War",
+        "uiTheme": "vs-dark",
+        "path": "./themes/god-of-war-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#1e1510",
+    "theme": "dark"
+  }
+}
